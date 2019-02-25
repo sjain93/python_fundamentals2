@@ -4,6 +4,7 @@ def negative(arg):
     else:
         print('False')
 
+
 negative(-1)
 negative(1)
 negative(-12)
